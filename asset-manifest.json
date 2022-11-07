@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1d9e209d.css",
+    "main.js": "/static/js/main.b7bd5058.js",
+    "static/media/Nour-cv.pdf": "/static/media/Nour-cv.11e16fe1a354bd852ca8.pdf",
+    "static/media/about.jpg": "/static/media/about.626512d525c3a380a6ad.jpg",
+    "static/media/profile.jpg": "/static/media/profile.9a2e6213584ab644bdf6.jpg",
+    "static/media/work2.jpg": "/static/media/work2.e52a0c2981a6c11ba468.jpg",
+    "static/media/work4.jpg": "/static/media/work4.aee985961b648f4df1f2.jpg",
+    "static/media/work5.jpg": "/static/media/work5.094ec4a2224db8908873.jpg",
+    "static/media/work1.jpg": "/static/media/work1.321b4ae3bf404acdfdc6.jpg",
+    "static/media/work3.jpg": "/static/media/work3.135e9065694bc13dc31d.jpg",
+    "index.html": "/index.html",
+    "main.1d9e209d.css.map": "/static/css/main.1d9e209d.css.map",
+    "main.b7bd5058.js.map": "/static/js/main.b7bd5058.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d9e209d.css",
+    "static/js/main.b7bd5058.js"
+  ]
+}
